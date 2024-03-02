@@ -1,5 +1,5 @@
 <div align="center"><p>We'll NEVER tire of supporting and donating to Ukraine!</p><p>Slava Ukraini, heroiam slava! Crimea is Ukraine!</p><a href="#"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png"></a> <a href="#"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Crimean_Tatar_people.svg/320px-Flag_of_the_Crimean_Tatar_people.svg.png"></a></div>
-<hr>
+<br>
 <table>
   <tr>
     <td>Go-to minimal stack:<p><a href="https://doc.rust-lang.org/std/index.html"><img src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4"></img></a> <a href="https://docs.python.org/3/tutorial/stdlib.html"><img src="https://avatars.githubusercontent.com/u/1525981?s=48&v=4"></img></a> <a href="https://actix.rs/docs/server"><img src="https://avatars.githubusercontent.com/u/32776943?s=48&v=4"></img></a> <a href="#"><img src="https://avatars.githubusercontent.com/u/7658037?s=48&v=4"></img></a> <a href="https://tokio.rs/tokio/tutorial/hello-tokio"><img src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4"></img></a> <a href="https://www.mongodb.com/docs/drivers/rust/current/fundamentals/crud/read-operations/retrieve/"><img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4"></img></a></p></td>

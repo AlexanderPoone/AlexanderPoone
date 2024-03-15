@@ -8,5 +8,4 @@
 </td>
   </tr>
 </table>
-<br>
-Deploys to IIS (Windows) and Linux servers.
+<p>Deploys to IIS (Windows) and Linux servers.</p>

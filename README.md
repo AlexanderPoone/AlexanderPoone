@@ -1,3 +1,8 @@
+<blockquote cite="https://www.huxley.net/bnw/four.html">
+  <p>Lot was dragging his feet. The men grabbed Lot’s arm, and the arms of his wife and daughters—God was so merciful to them!—and dragged them to safety outside the city. When they had them outside, Lot was told, “Now run for your life! Don’t look back! Don’t stop anywhere on the plain—run for the hills or you’ll be swept away.” [...] But Lot’s wife looked back and turned into a pillar of salt.</p>
+  <footer><cite>— Gen 19:16-17,26</cite></footer>
+</blockquote>
+<hr></hr>
 <div align="center"><p>We'll NEVER tire of supporting and donating to Ukraine!</p><p>Slava Ukraini, heroiam slava! Crimea is Ukraine!</p><a href="#"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png"></a> <a href="#"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Crimean_Tatar_people.svg/320px-Flag_of_the_Crimean_Tatar_people.svg.png"></a></div>
 <br>
 <table>

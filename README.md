@@ -13,4 +13,3 @@
 </td>
   </tr>
 </table>
-<p>Deploys to IIS (Windows) and Linux servers.</p>

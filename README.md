@@ -3,7 +3,7 @@
   <footer><cite>— Gen 19:16-17,26</cite></footer>
 </blockquote>
 <hr></hr>-->
-<div align="center"><p>We'll NEVER tire of supporting and donating to Ukraine!</p><p>Slava Ukraini, heroiam slava! Crimea is Ukraine!</p><a href="#"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png"></a> <a href="#"><img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Crimean_Tatar_people.svg/320px-Flag_of_the_Crimean_Tatar_people.svg.png"></a></div>
+<div align="center"><p>We'll NEVER tire of supporting and donating to Ukraine!</p><p>Slava Ukraini, heroiam slava! Crimea is Ukraine!</p><a href="#"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/320px-Flag_of_Ukraine.svg.png"></a> <a href="#"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_Crimean_Tatar_people.svg/320px-Flag_of_the_Crimean_Tatar_people.svg.png"></a></div>
 <br>
 <table>
   <tr>

@@ -1,6 +1,6 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alexanderpoone?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-If you appreciate my work, I kindly ask you to consider [donating to those affected by war](https://u24.gov.ua/) instead.
+If you appreciate my work, I kindly ask you to consider [donating to those affected by war](https://u24.gov.ua/about) instead.
 
 <!--<blockquote cite="https://www.huxley.net/bnw/four.html">
   <p>Lot was dragging his feet. The men grabbed Lot’s arm, and the arms of his wife and daughters—<em>God was so merciful to them!</em>—and dragged them to safety outside the city. When they had them outside, Lot was told, “Now run for your life! Don’t look back! Don’t stop anywhere on the plain—run for the hills or you’ll be swept away.” [...] But Lot’s wife looked back and turned into a pillar of salt.</p>
